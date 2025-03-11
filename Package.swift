@@ -15,6 +15,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NailDiseaseSDK",
-            path: "Versions/v1.1.5/NailDiseaseSDK.xcframework"  
+            path: "NailDiseaseSDK.xcframework"  
     ]
 )
