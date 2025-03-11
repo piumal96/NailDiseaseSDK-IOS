@@ -15,9 +15,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NailDiseaseSDK",
-            url: "https://github.com/piumal96/NailDiseaseSDK-IOS/releases/download/1.1.9/NailDiseaseSDK.xcframework.zip",
-            checksum: "87e661cf8642f9a8d1ddaa17c71018a0bebc291ec9f9ea74c5700de96f764c17"
-        )
+            path: "Versions/v1.1.5/NailDiseaseSDK.xcframework"  
     ]
 )
-
