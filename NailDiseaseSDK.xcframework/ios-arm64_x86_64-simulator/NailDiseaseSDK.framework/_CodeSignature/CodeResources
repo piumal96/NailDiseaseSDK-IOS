@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YaBDel6g44T6M4QdFGik+7SHnkM=
+		OvWZqkAm0+5MiakvvPkD5T5cIAg=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		phROMpfXXAsR0O95fyj6HqXUwYs=
+		Ic21bHGc9/mkt6anseZ64AQiLEs=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		EpZ5hp460xyCxCnxup878VDl3Ck=
+		wvvooa6mwGbymOKX6F3Nta+b9gw=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
-		t/RKMosGBHo19ZR0jCsktolTgwE=
+		tGm4NVQx8sThvgCKNKV7a/zuEDI=
 		</data>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>TensorFlowLiteC.bundle/Info.plist</key>
 		<data>
-		aVw+jUpjO3sccY5t4mJpZ4qIxyA=
+		GtCtq/aF2LQhUZQKWWkV6qcaY5s=
 		</data>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -98,14 +98,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z8vMX9erOyC4UKa5iHJhrNHZE5+YhVTTa2ML8a1Bogo=
+			CposNk3arxOYok4ahJxGJcxueRdKrh0YAQ/7zuQ/Sic=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nIv3PokI1ztmSL4nuAHFmyXgUnwRufp0til6UvhJ7Us=
+			cGJx5lNJDBsZJ2zTrAmLOTRnR+Yr3hd9RXQdCHoXzrU=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -189,7 +189,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o+MwhaD/h+1le7iF8SGK1mgWrMgN0zgCa6lfwLvNDHc=
+			jzqtqAoQafoNg5mSGAA8Vkg2hg99AIs1nw97yB+YCRU=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
@@ -203,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YMrEMzfEgVhiw0b76I2FeNeHHthZlMZO+bFk2UxQj9s=
+			z0gPV3uLijEa7amBCzXZbRdSiPNhDc+E/FO/F+bzEyo=
 			</data>
 		</dict>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>

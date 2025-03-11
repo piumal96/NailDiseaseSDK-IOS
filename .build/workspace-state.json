@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "naildiseasesdk-ios",
+          "kind" : "root",
+          "location" : "/Users/piumalkumara/Desktop/untitled folder/Versions/NailDiseaseSDK-IOS",
+          "name" : "NailDiseaseSDK-IOS"
+        },
+        "path" : "/Users/piumalkumara/Desktop/untitled folder/Versions/NailDiseaseSDK-IOS/NailDiseaseSDK.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "NailDiseaseSDK"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
