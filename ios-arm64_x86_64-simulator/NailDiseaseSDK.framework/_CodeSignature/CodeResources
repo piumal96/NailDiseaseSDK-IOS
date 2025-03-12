@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PxpQWZpDocnREX+5TBs8wtRAsWg=
+		JyP8LvMBxir0AYB5p/+oLUM+AfA=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		WtAsWdHB/g0jbRe+CD0pNY6NG/o=
+		IxrHgqM/V87ixKBgjMN0CagMuzY=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vWV+Gf89K2JuKTzqANN352nH+U8=
+		lo+2JvjTTM/o7ZdbzhzchJo4ryk=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WkHYynWHx/ex2mYuOyNdYuYGFjI=
+		cYYjUtlNwIVIb9b4PaS/RMM/p40=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,14 +98,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NeUbot4fGMX0hC4M1eqquSssPHiejtMyKxIU0gLyCgo=
+			7mvD/iObiFufyT3AwDvgL2rtkrOmk8KPzGbkQQQbquU=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H3oZwT5nZs97n5WOmDsi1WWiZUH4cuoo05Ul9pWkzG4=
+			SAOqVvDOaiPrODUJliCEGHBB45ZVzV7ZYEjYEVP1Dt4=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DG6L6YmsXArnmSjWirk9UvrIxPZ2BZUPIOkxgoK/2k0=
+			nXZX4uXv1Zrzn7YgRU5hqDNHsjooqqcI42A+nuWtGnw=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cD6e+5cY/aQ8dcEpZUpXDLmVrCeSUeOvI56UGXbyEjg=
+			grLQfCULLX6tNvl5tn3RJvmhh1trz4dS8P3QQAVfk6A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
