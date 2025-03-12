@@ -14,51 +14,51 @@
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		jQvTaIy6EJTemmJctQe1LuoiDak=
+		pcL+KNH2HoJGMquzOfaw6VaQRTE=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		y08332aTcPb62WVPYvwviESirWA=
+		re+PLg6oyl1J/+UzFpOVx6roWkk=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		WJFunIh3B82ecpEecYYdd1pKKgE=
+		9qIgyIclCHymWpmxkvI0C+84M/k=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lXSI+maAVsY+Q+fIwAUREB+ugYk=
+		lWpf0A+tonV9ZEGrLFz+jmtC6xU=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dbVmSv7ObZ5lAxzfL7PfU6abdbM=
+		G3pE1QoSRDExZE5KTe4LZBLv5VI=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lXSI+maAVsY+Q+fIwAUREB+ugYk=
+		lWpf0A+tonV9ZEGrLFz+jmtC6xU=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lo+2JvjTTM/o7ZdbzhzchJo4ryk=
+		FugZPe0X2A6EjgmR9ErBJpGRWec=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		WJFunIh3B82ecpEecYYdd1pKKgE=
+		9qIgyIclCHymWpmxkvI0C+84M/k=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cB8GeBTPd53IXVNYhXma+n2MB2w=
+		6cMWjOHJwuT8fDQh7OLQZ4n9xB0=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LGzTqq38AP1SiEZmOel8+X9AcGA=
+		tWg/20mRA3/ZmMHbFh/NEr634ps=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cB8GeBTPd53IXVNYhXma+n2MB2w=
+		6cMWjOHJwuT8fDQh7OLQZ4n9xB0=
 		</data>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cYYjUtlNwIVIb9b4PaS/RMM/p40=
+		teMwRN7v8VnaceATwv3J6VCE8QI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,84 +98,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			22V7se39bgeu5a/JhIXQTJvcmKlfJ1vADwkAde8z1/U=
+			gwkkWyvSPMCmba63qHPTYwU1x+JMnabM7DEN4Be7kgo=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J3nZ7WelC/LMggFn4FB4G8DU/u1IJdUc4KNYqhHid+U=
+			yX7XJ0cKgDHwmLbQ/n0beuZgd8CaIR7fkMwsPoZtfzE=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HVgMd+onLN8upjdnUc90bqqzEisf+KT9zJTZe7xgosg=
+			RLzwNBt/U0fu59ff2WJlzNT4+u0+shhSGq4CijnBATw=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GU/uO9YFz5T8cljDM6otdgPnbbviCl2Qaj6bTVt4UBs=
+			li/MmR9+aOYl10MZuXPLj5TR1x5Xvv0AcmjXMGox2cc=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tjo7mxWxkMmqjMHMNcZtCurwe73OSfuPJTFCwVxlS70=
+			/xx4nCrbFzjMzR92tv0Wdl4GC02Ueac1e2wUod1i388=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GU/uO9YFz5T8cljDM6otdgPnbbviCl2Qaj6bTVt4UBs=
+			li/MmR9+aOYl10MZuXPLj5TR1x5Xvv0AcmjXMGox2cc=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nXZX4uXv1Zrzn7YgRU5hqDNHsjooqqcI42A+nuWtGnw=
+			UsoYhylX7CTX8QXnnIolfoAnFoQ4eQBcKOlPTUrZt54=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HVgMd+onLN8upjdnUc90bqqzEisf+KT9zJTZe7xgosg=
+			RLzwNBt/U0fu59ff2WJlzNT4+u0+shhSGq4CijnBATw=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+EkfLMC+xmSl00uSaconj0gD8T7kyEVET5u7MKcHOGI=
+			FcxPSwLzVajtayfFze2YGgS5q1HEIJFybsQgSK2YExc=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FzxYZoscb4cXNF1Ap3vNQgyVJPclzZAwa6RfJlCR3O0=
+			C6/+yVKu651XM37Zhlz8kx1+GMSfd0twnskfyLv5574=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+EkfLMC+xmSl00uSaconj0gD8T7kyEVET5u7MKcHOGI=
+			FcxPSwLzVajtayfFze2YGgS5q1HEIJFybsQgSK2YExc=
 			</data>
 		</dict>
 		<key>Modules/NailDiseaseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			grLQfCULLX6tNvl5tn3RJvmhh1trz4dS8P3QQAVfk6A=
+			AfSVraKLHKIAYBcRYcK/gNA0MdFJDrNEuSKdEj+paNo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
