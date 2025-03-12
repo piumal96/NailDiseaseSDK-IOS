@@ -1261,49 +1261,49 @@
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 2205,
+      "offset": 2198,
       "length": 3,
       "value": "224"
     },
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 2218,
+      "offset": 2211,
       "length": 3,
       "value": "224"
     },
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "StringLiteral",
-      "offset": 2252,
-      "length": 32,
-      "value": "\" ERROR: Failed to resize image\""
+      "offset": 2242,
+      "length": 35,
+      "value": "\"❌ ERROR: Failed to resize image\""
     },
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "StringLiteral",
-      "offset": 2419,
-      "length": 36,
-      "value": "\" ERROR: Image preprocessing failed\""
+      "offset": 2400,
+      "length": 39,
+      "value": "\"❌ ERROR: Image preprocessing failed\""
     },
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "FloatLiteral",
-      "offset": 2603,
+      "offset": 2575,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "StringLiteral",
-      "offset": 2628,
+      "offset": 3062,
       "length": 88,
       "value": "\"ℹ️ Preprocessed input data size: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/iOS-SDK-Nail-Disease-Identification\/iOS-SDK-Nail-Disease-Identification\/NailDiseaseSDK\/Sources\/Services\/ImageProcessor.swift",
       "kind": "StringLiteral",
-      "offset": 2715,
+      "offset": 3149,
       "length": 2,
       "value": "\"\""
     },
