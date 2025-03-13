@@ -39,3 +39,83 @@ To integrate the **Nail Disease Identification SDK** into your Xcode project usi
 ```swift
 https://github.com/piumal96/NailDiseaseSDK-IOS/
 ```
+
+Additionally, install **TensorFlow Lite** to ensure compatibility with the SDK:
+
+```swift
+pod 'TensorFlowLiteSwift'
+```
+
+To clone the **Sample Application**, use the following GitHub repository:
+
+```sh
+git clone https://github.com/piumal96/NailDisease
+```
+
+This repository contains a fully functional sample app demonstrating the SDK’s capabilities.
+
+---
+
+## 📖 Usage Guide
+
+### NailDiseaseClassifier SDK
+
+🚀 **Step 1: Import the SDK**
+
+To start using the **NailDiseaseClassifier** SDK, import it at the top of your Swift file:
+
+```swift
+import NailDiseaseSDK
+```
+
+---
+
+🏗 **Step 2: Initialize the Classifier**
+
+Create an instance of the **NailDiseaseClassifier**:
+
+```swift
+let classifier = NailDiseaseClassifier()
+```
+
+---
+
+🖼 **Step 3: Prepare Image Data**
+
+Before running the analysis, preprocess the image using **TFLiteImageProcessor**:
+
+```swift
+guard let inputData = TFLiteImageProcessor.preprocessImage(image) else {
+    print("Image preprocessing failed.")
+    return
+}
+```
+
+---
+
+🔍 **Step 4: Run Nail Disease Analysis**
+
+Use the `analyzeNail(imageData:)` method to classify the image:
+
+```swift
+classifier.analyzeNail(imageData: inputData)
+```
+
+---
+
+📊 **Step 5: Retrieve Diagnosis Result**
+
+After analysis, retrieve the result using:
+
+```swift
+let result = classifier.getDiagnosis()
+print("Diagnosis Result: \(result)" )
+```
+
+---
+
+🎯 **Conclusion**
+
+This document outlines the basic steps required to integrate and use the **NailDiseaseClassifier** SDK to analyze nail images. Ensure that the input image is properly preprocessed before running inference for accurate results.
+
+💡 **Tip:** Always check if the input image meets the required specifications before processing for optimal performance. 🚀
